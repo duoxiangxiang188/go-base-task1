@@ -1,0 +1,16 @@
+
+{
+    "name":"My FIrst NFT",
+    "description":"This is my first testnet NFT!!",
+    "image":"https://ipfs.io/ipfs/bafkreigb7o5mxgcswiav7pgoa4dhza4vb2l7shwipnqqfh6e63ylv2y3jq",
+    "attributes":[
+        {
+            "trait_type":"type",
+            "value":"Test NFT"
+        },
+        {
+            "trait_type":"Rarity",
+            "value":"Common"
+        }
+    ]
+}
