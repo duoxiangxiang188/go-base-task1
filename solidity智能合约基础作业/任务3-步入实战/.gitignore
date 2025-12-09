@@ -1,0 +1,19 @@
+# 排除nft-auction-market下的Node依赖（体积大，无需上传）
+nft-auction-market/node_modules/
+
+# 排除环境变量文件（含私钥，绝对不能上传）
+nft-auction-market/.env
+nft-auction-market/.env.*
+
+# 排除Hardhat缓存/构建文件
+nft-auction-market/cache/
+nft-auction-market/artifacts/
+nft-auction-market/typechain/
+
+# 排除IDE配置文件
+nft-auction-market/.idea/
+nft-auction-market/.vscode/
+
+# 排除日志文件
+nft-auction-market/npm-debug.log*
+nft-auction-market/yarn-error.log*

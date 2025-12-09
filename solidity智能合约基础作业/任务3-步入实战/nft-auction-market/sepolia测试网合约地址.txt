@@ -1,0 +1,6 @@
+deploying "NFT" (tx: 0xdbbcd227ac7b0055aa8b5748dd5c19a1d54972b4538e84f0e9eb3ba6d1f43b57)...: deployed at 0x3F6f57CAdfb8cC1b071d2b2849b4748AFBd1Cffc 
+deploying "TestERC20" (tx: 0x0fdf57b5f4c950c0243fbb2c427fd85aa428099b09456122cf00be49f96f4374)...: deployed at 0xB35841b77bA34BcFb520786Cfc2e476B0C70ECbD 
+----------------------------------------------------
+Deploying Auction Contract with UUPS Proxy...
+Auction Contract deployed to: 0x9cCc7c5a5eD0BF1B9e4CBF2288123fBA4DD4be99
+Aution implementation address: 0x50c7384D45F7d6Dd092d00900a6F2300b4ce4024
